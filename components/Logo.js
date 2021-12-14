@@ -4,4 +4,4 @@ export default function Logo() {
       Imamnura
     </div>
   );
-};
+}

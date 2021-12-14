@@ -1,4 +1,4 @@
-import NavItem from './NavItem';
+import NavItem from "./NavItem";
 
 export default function Nav() {
   return (
@@ -9,4 +9,4 @@ export default function Nav() {
       <NavItem>Contact</NavItem>
     </ul>
   );
-};
+}

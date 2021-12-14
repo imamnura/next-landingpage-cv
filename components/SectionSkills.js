@@ -14,45 +14,51 @@ export default function SectionSkills() {
               name="Javascript"
               image="/javascript.svg"
               level="Lanjutan"
-              imageClassName="rounded-full h-16" />
+              imageClassName="rounded-full h-16"
+            />
           </div>
           <div className="w-4/12 px-4 pb-8">
             <SkillCard
               name="React"
               image="/react.svg"
               level="Menengah"
-              imageClassName="h-16" />
+              imageClassName="h-16"
+            />
           </div>
           <div className="w-4/12 px-4 pb-8">
             <SkillCard
               name="NodeJs"
               image="/nodejs.svg"
               level="Menengah"
-              imageClassName="h-16" />
+              imageClassName="h-16"
+            />
           </div>
           <div className="w-4/12 px-4 pb-8">
             <SkillCard
               name="Javascript"
               image="/javascript.svg"
               level="Lanjutan"
-              imageClassName="rounded-full h-16" />
+              imageClassName="rounded-full h-16"
+            />
           </div>
           <div className="w-4/12 px-4 pb-8">
             <SkillCard
               name="React"
               image="/react.svg"
               level="Menengah"
-              imageClassName="h-16" />
+              imageClassName="h-16"
+            />
           </div>
           <div className="w-4/12 px-4 pb-8">
             <SkillCard
               name="NodeJs"
               image="/nodejs.svg"
               level="Menengah"
-              imageClassName="h-16" />
+              imageClassName="h-16"
+            />
           </div>
         </div>
       </div>
     </section>
   );
-};
+}

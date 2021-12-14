@@ -1,6 +1,6 @@
-import Logo from './Logo';
-import Nav from './Nav';
-import Button from './Button';
+import Logo from "./Logo";
+import Nav from "./Nav";
+import Button from "./Button";
 
 export default function NavBar() {
   return (
@@ -16,4 +16,4 @@ export default function NavBar() {
       </div>
     </div>
   );
-};
+}

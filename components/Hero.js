@@ -1,5 +1,5 @@
-import NavBar from './NavBar';
-import Button from './Button';
+import NavBar from "./NavBar";
+import Button from "./Button";
 
 export default function Hero() {
   return (
@@ -13,9 +13,11 @@ export default function Hero() {
           <p className="text-white text-opacity-60 text-lg w-4/12 mx-auto mt-6 leading-relaxed">
             Sejak 2017 saya memulai programming
           </p>
-          <Button className="mt-14" variant="yellow">Pelajari</Button>
+          <Button className="mt-14" variant="yellow">
+            Pelajari
+          </Button>
         </div>
       </div>
     </div>
   );
-};
+}

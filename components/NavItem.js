@@ -6,4 +6,4 @@ export default function NavItem({ children }) {
       </a>
     </li>
   );
-};
+}
